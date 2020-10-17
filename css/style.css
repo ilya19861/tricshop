@@ -14,7 +14,10 @@ body {
   font-family: 'Montserrat', sans-serif;
   height: 100%;
 }
-
+.gl {
+ max-width: 1600px;
+ margin: 0 auto;
+}
 .main-content {
   max-width: 1600px;
   margin: 0 auto;
